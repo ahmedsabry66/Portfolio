@@ -8,7 +8,7 @@ This repository contains an analysis of IMDb movie data using Power BI. The goal
 
 ## Project Highlights
 
-- **Data Source**: IMDb dataset (you can mention the source or provide a link)
+- **Data Source**: IMDb dataset ([you can mention the source or provide a link](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows))
 - **Tools Used**:
   - Power BI for data transformation and visualization
 - **Visualizations**:
