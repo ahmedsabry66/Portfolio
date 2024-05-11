@@ -10,8 +10,7 @@ This repository contains an analysis of IMDb movie data using Power BI. The goal
 
 - **Data Source**: IMDb dataset (you can mention the source or provide a link)
 - **Tools Used**:
-  - Power BI for data visualization
-  - SQL for data extraction and transformation
+  - Power BI for data transformation and visualization
 - **Visualizations**:
   - Bar charts for earnings by certificate
   - Scatter plots for votes versus earnings
