@@ -1,4 +1,4 @@
-# IMDb Movies Earnings Analysis with Power BI
+# IMDb Movies Earnings Analysis
 
 ![IMDb Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/320px-IMDB_Logo_2016.svg.png)
 
@@ -9,8 +9,7 @@ This directory contains an analysis of IMDb movies earnings using Power BI. The 
 ## Project Highlights
 
 - **Data Source**: Kaggle ([IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows))
-- **Tools Used**:
-  - Power BI for data transformation and visualization
+
 - **Visualizations**:
   - Bar charts for earnings by certificate
   - Scatter plots for votes versus earnings
