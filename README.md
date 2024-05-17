@@ -18,7 +18,7 @@ I'm an enthusiastic data analyst that has a strong desire to investigate and eva
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python
 - **Data Analysis:** Pandas basics
 - **Data Visualization:** Power Bi, Tableau
 - **Database Management:** SQLite, Microsoft SQL Server
