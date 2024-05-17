@@ -1,6 +1,6 @@
 # IMDb Movies Earnings Analysis
 
-![IMDb Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/320px-IMDB_Logo_2016.svg.png)
+![IMDb Movies Earnings](https://i.imgur.com/N7F8Wet.png)
 
 ## Overview
 

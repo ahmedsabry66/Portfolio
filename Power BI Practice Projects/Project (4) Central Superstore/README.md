@@ -1,5 +1,7 @@
 # Central Superstore Report
 
+![Central Superstore](https://i.imgur.com/8Uoo37u.png)
+
 ## Overview
 
 This repository contains the Power BI project for analyzing sales data from the Central Superstore. The dashboard provides insights into various elements of the sales data.

@@ -1,5 +1,7 @@
 # HR Analytics Dashboard
 
+![HR Analytics](https://i.imgur.com/uJZQqvj.png)
+
 ## Overview
 
 The HR Analytics project in Power BI aims to analyze attrition rates by gender, work-life balance, environment satisfaction, marital status, business travel, monthly income (binned), and job role to provide insights for HR department and overall workforce management.

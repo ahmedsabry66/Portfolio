@@ -1,6 +1,6 @@
 # AdventureWorks Report
 
-![AdventureWorks Report](https://i.imgur.com/HVR0JMt.png)
+![AdventureWorks Dashboard](https://i.imgur.com/ibQB25w.png)
 
 ## Overview
 

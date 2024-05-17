@@ -1,8 +1,8 @@
 # MAVEN MARKET
 
-![MAVEN MARKET](https://i.imgur.com/lyY0AoC.png)
+![MAVEN MARKET](https://i.imgur.com/0zTVlgB.png)
 
-## Introduction
+## Overview
 
 The MAVEN MARKET Dashboard is a data analytics project that visualizes transaction data, profit margins, and market reach across different countries, providing information for strategic decision-making and business growth.
 
