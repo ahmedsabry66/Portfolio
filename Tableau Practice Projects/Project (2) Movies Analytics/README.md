@@ -1,4 +1,4 @@
-# Movies Dashboard
+# Movies Analytics Dashboard
 
 ![Movies](https://i.imgur.com/j5Yqt3Y.png)
 

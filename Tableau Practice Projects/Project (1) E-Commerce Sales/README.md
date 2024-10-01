@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard
+# E-Commerce Dashboard
 
 ![E-Commerce Sales](https://i.imgur.com/L4rbBCm.png)
 
