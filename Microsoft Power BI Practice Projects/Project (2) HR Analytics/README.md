@@ -1,26 +1,24 @@
 # HR Analytics Dashboard
 
-![HR Analytics](https://i.imgur.com/uJZQqvj.png)
+![HR Analytics](https://i.imgur.com/yEznUGD.png)
 
 ## Overview
 
-The HR Analytics project in Power BI aims to analyze attrition rates by gender, work-life balance, environment satisfaction, marital status, business travel, monthly income (binned), and job role to provide insights for HR department and overall workforce management.
+This project is an HR Analytics Dashboard built in Power BI to provide insights into key HR metrics, with a focus on employee attrition. The dashboard helps HR teams and business leaders analyze workforce trends and make data-driven decisions to improve employee retention, work-life balance, and overall workforce management.
 
-## Project Highlights
+## Key Features
 
-- **Attrition Rate by Gender Analysis:** Examine how gender affects employee turnover and look for any patterns in attrition rates that are related to gender.
+- **Interactive Visuals:** A wide range of interactive charts, including bar charts, line charts, and pie charts, that provide a detailed view of employee metrics.
 
-- **Insights on Work-Life Balance:** Examine the correlation between attrition rates and work-life balance.
+- **Drill-through Pages:** Drill-through capabilities for in-depth analysis of attrition based on gender, marital status, business travel, and department/job role.
 
-- **Environment Satisfaction Analysis:** Determine areas in the workplace that need improvement.
+- **Slicers:** Easy-to-use slicers to filter the data by different dimensions such as department, job role, and more.
 
-- **Analysis of Marital Status:** To determine the impact of marital status on employee turnover
+- **KPIs:** Key Performance Indicators (KPIs) such as Total Employees, Active Employees, Exited Employees, Retention % and Attrition %
 
-- **Analysis of Business Travel:** Evaluate how business travel affects attrition rates.
+## Technologies Used
 
-- **Monthly Revenue Overview:** By comparing monthly income to attrition rates.
+- **Power BI:** For data visualization and dashboard creation.
+- **DAX:** For dynamic measures and calculations.
 
-- **Analysis of Job Roles:** Examine attrition rates in various job roles.
-
-    - **Data Source**: Kaggle ([HR Analytics Case Study](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study))
 
