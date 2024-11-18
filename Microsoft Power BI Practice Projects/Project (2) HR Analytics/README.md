@@ -1,6 +1,9 @@
 # HR Analytics Dashboard
 
-![HR Analytics](https://i.imgur.com/yEznUGD.png)
+![HR Analytics](https://i.imgur.com/o8A5OJw.png)
+![HR Analytics](https://i.imgur.com/W3vOAUi.png)
+![HR Analytics](https://i.imgur.com/sssAliM.png)
+
 
 ## Overview
 
